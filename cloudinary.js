@@ -1,11 +1,4 @@
-// const cloudinary = require('cloudinary').v2;
-
-// // Configure Cloudinary
-// cloudinary.config({
-//   cloud_name: 'dkrarj6gn',
-//   api_key: '416182517694345',
-//   api_secret: 'VdVvt3n5lf21t1Bi_dHo0GChYTU'
-// });
+// const cloudinary = require('cloudinary').v2
 
 // // Function to upload an image to Cloudinary
 // // async function uploadImage(filePath) {
